@@ -23,7 +23,7 @@ The implementation is [here](https://github.com/maudzung/SFA3D/tree/ea0222c1b354
 
 ## Demonstration (on a single GTX 1080Ti)
 
-[![demo](http://img.youtube.com/vi/FI8mJIXkgX4/0.jpg)](http://www.youtube.com/watch?v=FI8mJIXkgX4)
+[![demo](https://img.youtube.com/vi/fcce6t55grg/0.jpg)](https://youtu.be/fcce6t55grg)
 
 
 **[Youtube link](https://youtu.be/FI8mJIXkgX4)**
