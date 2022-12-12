@@ -13,31 +13,18 @@
 - [x] Support [distributed data parallel training](https://github.com/pytorch/examples/tree/master/distributed/ddp)
 - [x] Release pre-trained models 
 
-## Highlights
-- [x] The technical details are described **[here](./Technical_details.md)**
-- [x] The great introduction and explanation from _`Computer Vision and Perception for Self-Driving Cars Course`_ **[Youtube link](https://youtu.be/cPOtULagNnI?t=4858)**
-- [x] SFA3D is used for the second course in the _`Udacity Self-Driving Car Engineer Nanodegree Program: Sensor Fusion and Tracking`_ **[GitHub link](https://github.com/udacity/nd013-c2-fusion-starter/tree/b1455b8ff433cb7f537d62e526209738293e7d8b)**
-
-**Update 2020.09.06**: Add `ROS` source code. The great work has been done by [@AhmedARadwan](https://github.com/AhmedARadwan). 
-The implementation is [here](https://github.com/maudzung/SFA3D/tree/ea0222c1b35489dc35d8452c989c4b014e20e0da)
-
 ## Demonstration (on a single GTX 1080Ti)
 
 [![demo](https://img.youtube.com/vi/fcce6t55grg/0.jpg)](https://youtu.be/fcce6t55grg)
 
 
-**[Youtube link](https://youtu.be/FI8mJIXkgX4)**
+**[Youtube link](https://youtu.be/fcce6t55grg)**
 
 ## 2. Getting Started
 ### 2.1. Requirement
 
 The instructions for setting up a virtual environment is [here](https://github.com/maudzung/virtual_environment_python3).
 
-```shell script
-git clone https://github.com/maudzung/SFA3D.git SFA3D
-cd SFA3D/
-pip install -r requirements.txt
-```
 
 ### 2.2. Data Preparation
 Download the 3D KITTI detection dataset from [here](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
@@ -119,24 +106,6 @@ tensorboard --logdir=./
 
 - Then go to [http://localhost:6006/](http://localhost:6006/)
 
-
-## Contact
-
-If you think this work is useful, please give me a star! <br>
-If you find any errors or have any suggestions, please contact me (**Email:** `nguyenmaudung93.kstn@gmail.com`). <br>
-Thank you!
-
-
-## Citation
-
-```bash
-@misc{Super-Fast-Accurate-3D-Object-Detection-PyTorch,
-  author =       {Nguyen Mau Dung},
-  title =        {{Super-Fast-Accurate-3D-Object-Detection-PyTorch}},
-  howpublished = {\url{https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection}},
-  year =         {2020}
-}
-```
 
 ## References
 
