@@ -13,7 +13,7 @@
 - [x] Support [distributed data parallel training](https://github.com/pytorch/examples/tree/master/distributed/ddp)
 - [x] Release pre-trained models 
 
-## Demonstration (on a single GTX 1080Ti)
+## Demonstration (on a single RTX 3080Ti)
 
 [![demo](https://img.youtube.com/vi/fcce6t55grg/0.jpg)](https://youtu.be/fcce6t55grg)
 
